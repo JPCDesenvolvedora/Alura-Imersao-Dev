@@ -1,9 +1,9 @@
 Links Codepen com os Desafios:
 
 --------------------------------------------------------------------------------------
-https://codepen.io/JPCDesenvolvedora7/pen/GREMpjW - Conversor de Moedas;	      |
+https://codepen.io/JPCDesenvolvedora7/pen/GREMpjW - Conversor de Moedas;	            |
 --------------------------------------------------------------------------------------
-https://codepen.io/JPCDesenvolvedora7/pen/BaZmRxN?editors=0010 - Sorteador de Números;|
+https://codepen.io/JPCDesenvolvedora7/pen/BaZmRxN?editors=0010 - Sorteador de Números |
 --------------------------------------------------------------------------------------
 https://codepen.io/JPCDesenvolvedora7/pen/GREyawL?editors=0010 - PedroFlix - V1	      |
 --------------------------------------------------------------------------------------
