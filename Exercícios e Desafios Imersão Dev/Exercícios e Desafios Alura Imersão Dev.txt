@@ -1,4 +1,4 @@
-Links Codepen com os Desafios:
+Links do Codepen com os Desafios:
 
 --------------------------------------------------------------------------------------
 https://codepen.io/JPCDesenvolvedora7/pen/GREMpjW - Conversor de Moedas;	      |
